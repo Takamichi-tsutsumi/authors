@@ -10,7 +10,7 @@ default: &default
   database: author_dev
   host: localhost
   port: 5432
-  password:
+  password: hiro0117
   pool: 5
   timeout: 5000
 
